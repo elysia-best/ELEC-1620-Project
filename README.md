@@ -1,5 +1,12 @@
 # ELEC 1620 Unit4 Individual Project
 
+## Warning!
+
+This is a PRIVATE work. You must NOT present this work, in whole or in part, as your own. Work means any intellectual output, and typically includes text, data, images, designs, sound and performance in this project. 
+Otherwise, you are at risk of PLAGIARISM!
+
+Meanwile, this software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. 
+
 ## 1b) Breadboard Layout:
 
 ![IMG_0084 - labelled](https://github.com/user-attachments/assets/ace0f8ac-4e42-48e9-8931-af92b9081d88)
