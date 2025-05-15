@@ -3,7 +3,7 @@
 ## Warning!
 
 This is a PRIVATE work, just uploaded here for my convinence. You must NOT present this work, in whole or in part, as your own. Work means any intellectual output, and typically includes text, data, images, designs, sound and performance in this project. 
-Otherwise, you are at risk of PLAGIARISM!
+Otherwise, you are at risk of PLAGIARISM and may be EXCLUDED form the Univeristy PERMANENTLY!
 
 Meanwile, this software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. 
 
